@@ -1,5 +1,5 @@
 /*
-Que:- .Write a java program to accept one string and one character from user and 
+Que:- .Write a java program to which accept one string and one character from user and 
 print count of given char in string
 
 Owner :- Wagh Aditya.
