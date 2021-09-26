@@ -1,6 +1,6 @@
-.
+
 /*
-Que:- Write a java program to accept one string from user and print all characters 
+Que:- Write a java program to which is going to  accept one string from user and print all characters 
 from string. (Using BufferedReader class). charAt(i)
 
 
